@@ -6,12 +6,12 @@
 }
 
 body {
-    background-color: #8758ff;
+    background-color: #66C3D1;
 }
 
 .container {
     font-size: 16px;
-    background-color: #ffffff;
+    background-color: #D8EEE1;
     width: 90vw;
     max-width: 34em;
     position: absolute;
@@ -37,8 +37,8 @@ body {
 #options-container button {
     padding: 0.6em 1.2em;
     border: 3px solid #6229f2;
-    background-color: #ffffff;
-    color: #8758ff;
+    background-color: #D8EEE1;
+    color: #D8EEE1;
     border-radius: 0.3em;
     text-transform: capitalize;
 }
@@ -50,9 +50,9 @@ body {
 }
 
 #options-container button.active {
-    background-color: #8758ff;
+    background-color: #D8EEE1;
     border: 3px solid #6229f2;
-    color: #fff;
+    color: #D8EEE1;
 }
 
 .letter-container {
@@ -67,11 +67,11 @@ body {
     height: 2.4em;
     width: 2.4em;
     border-radius: 0.3em;
-    background-color: #ffffff;
+    background-color: #D8EEE1;
 }
 
 .new-game-popup {
-    background-color: #ffffff;
+    background-color: #D8EEE1;
     position: absolute;
     left: 0;
     top: 0;
@@ -118,9 +118,9 @@ canvas {
 #new-game-button {
     font-size: 1.25em;
     padding: 0.5em 1em;
-    background-color: #8758ff;
+    background-color: #D8EEE1;
     border: 3px solid #6229f2;
-    color: #fff;
+    color: #D8EEE1;
     border-radius: 0.2em;
 }
 
