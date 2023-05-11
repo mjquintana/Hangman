@@ -6,7 +6,8 @@
 }
 
 body {
-    background-color: #66C3D1;
+    background-image: url("pexels-pixabay-161820.jpg");
+    background-size: cover;
 }
 
 .container {
