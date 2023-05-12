@@ -184,7 +184,7 @@ const canvasCreator = () => {
 		//clear canvas
 		context.clearRect(0, 0, context.canvas.width, context.canvas.height);
 		//bottom line
-		drawLine(0, 130, 30, 130);
+		drawLine(0, 130, 75, 130);
 		//left line
 		drawLine(10, 10, 10, 131);
 		//top line
